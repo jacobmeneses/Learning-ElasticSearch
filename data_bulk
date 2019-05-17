@@ -1,0 +1,4 @@
+{"index":{"_index":"products","_id":"66a5f093-0e56-4ec0-aeed-b24fab1cebf3"}}
+{"name":"optical mouse","post_date":"2019-05-13T21:13:00","user_score":4.5,"price":10.31}
+{"index":{"_index":"products","_id":"dda3787-145d-41f7-a748-08a9d08cb7df"}}
+{"name":"keyboard","post_date":"2019-05-08T04:12:00","user_score":4.0,"price":15.31}
